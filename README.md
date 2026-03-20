@@ -42,3 +42,11 @@ Le CV complet est disponible dans le dossier [CV](./CV).
 - N’DRI ALBERT KOUASSI – Directeur départemental santé et couverture maladie universelle de Bangolo – +225 0709002134 – dr_ndry@yahoo.fr  
 - GNAN ZAMANÉ JULIEN – Inspecteur des soins, Ingénieur santé publique, Enseignant INFAS – +225 0707488892 – juliengnan@gmail.com  
 - GOUET ERIC – Consultant chef de projet santé communautaire, ONG GFM3 – +225 0564513129 – erickgouet@gmail.com
+
+## Contactez-moi
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?logo=whatsapp)](https://wa.me/2250778588152)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yao-kan-jean-paul-djeha-172787102)
+
+- 💬 WhatsApp : [+225 0778588152](https://wa.me/2250778588152)
+- 🔗 LinkedIn : [Jean-Paul Yao Kan Djeha](https://www.linkedin.com/in/yao-kan-jean-paul-djeha-172787102)
