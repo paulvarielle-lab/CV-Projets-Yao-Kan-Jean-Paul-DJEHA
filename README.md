@@ -7,6 +7,18 @@ Professionnel avec plus de 10 ans d’expérience en gestion opérationnelle, co
 Expert en santé publique et en gestion de centres de soins, avec une solide expérience en suivi des performances, analyse de données et optimisation des processus.  
 Capable de collaborer avec différents partenaires et ONG pour garantir la qualité et l’efficacité des programmes.
 
+## Compétences clés
+
+- Gestion de centres de santé  
+- Planification et pilotage de projets de santé  
+- Suivi et évaluation des performances  
+- Analyse de données (SPSS, Excel)  
+- Coordination avec partenaires et ONG  
+- Leadership et gestion d’équipes  
+- Communication professionnelle et reporting  
+
+Voir le détail des compétences : [Competences](./Competences.md)
+
 ## CV
 Le CV complet est disponible dans le dossier [CV](./CV).
 
